@@ -1,0 +1,11 @@
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\bin\Debug\net8.0\WutheringWaves.Data.deps.json
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\bin\Debug\net8.0\WutheringWaves.Data.dll
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\bin\Debug\net8.0\WutheringWaves.Data.pdb
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\WutheringWaves.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\WutheringWaves.Data.AssemblyInfoInputs.cache
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\WutheringWaves.Data.AssemblyInfo.cs
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\WutheringWaves.Data.csproj.CoreCompileInputs.cache
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\WutheringWaves.Data.dll
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\refint\WutheringWaves.Data.dll
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\WutheringWaves.Data.pdb
+C:\Users\E5BulletProof\RiderProjects\WutheringWavesCalculator\WutheringWaves.Data\obj\Debug\net8.0\ref\WutheringWaves.Data.dll

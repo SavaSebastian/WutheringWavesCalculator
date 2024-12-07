@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WutheringWavesCalculator/1.0.0": {
+        "dependencies": {
+          "WutheringWaves.Data": "1.0.0"
+        },
+        "runtime": {
+          "WutheringWavesCalculator.dll": {}
+        }
+      },
+      "WutheringWaves.Data/1.0.0": {
+        "runtime": {
+          "WutheringWaves.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WutheringWavesCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WutheringWaves.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
